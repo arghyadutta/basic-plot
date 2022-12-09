@@ -1,1 +1,1 @@
-A short jupyter notebook showing code for decent plots
+A jupyter notebook with a simple code for getting decent plots
